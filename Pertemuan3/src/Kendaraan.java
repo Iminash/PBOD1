@@ -20,7 +20,7 @@ public class Kendaraan {
         this.jenis = jenis;
     }
 
-    // Selektor
+    // SelektorP
     public String getNoPlat(){
         return this.noPlat;
     }
