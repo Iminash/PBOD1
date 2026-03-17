@@ -3,6 +3,7 @@
  * Pembuat   : Muhammad Kamal Hamzah / 24060124130056
  * Tanggal   : 14/03/2026
  */
+
 import java.time.LocalDate;
 
 public class DosenTamu extends Dosen {
