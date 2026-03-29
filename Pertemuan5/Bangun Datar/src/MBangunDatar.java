@@ -17,6 +17,7 @@ public class MBangunDatar{
         P1.printInfo();
 
         System.out.println("Persegi P2:");
+        
         P2.printInfo();
         System.out.println(P1.isEqualLuas(P2)); 
 
