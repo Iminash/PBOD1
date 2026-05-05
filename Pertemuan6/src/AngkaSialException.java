@@ -1,8 +1,8 @@
 /**
  * File         : AngkaSialException.java
  * Deskripsi    : Eksepsi buatan sendiri, menolak masukan angka 13
- * Pembuat      : George Imanuel Surya - 24060123120028
- * Lab          : B2
+ * Pembuat      : Muhammad Kamal Hamzah / 24060124130056
+ * Lab          : D1
  */
 
  public class AngkaSialException extends Exception{

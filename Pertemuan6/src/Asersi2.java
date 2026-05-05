@@ -5,6 +5,7 @@
  * Lab        : D1
  */
 //class Lingkaran
+
 class Lingkaran{
     private double jariJari;
     public Lingkaran(double jariJari){
