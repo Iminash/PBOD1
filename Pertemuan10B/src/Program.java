@@ -2,11 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+<<<<<<< HEAD
 // package jdbc.program;
 
 import java.util.List;
 // import jdbc.model.Mahasiswa;
 // import jdbc.service.MysqlMahasiswaService;
+=======
+package jdbc.program;
+
+import java.util.List;
+import jdbc.model.Mahasiswa;
+import jdbc.service.MysqlMahasiswaService;
+>>>>>>> 23bc096feb16e53f702049a9302606bd4d813acf
 
 public class Program {
     static MysqlMahasiswaService service = new MysqlMahasiswaService();

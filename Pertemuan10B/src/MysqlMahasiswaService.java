@@ -2,7 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+<<<<<<< HEAD
 // package jdbc.service;
+=======
+package jdbc.service;
+>>>>>>> 23bc096feb16e53f702049a9302606bd4d813acf
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -11,8 +15,13 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+<<<<<<< HEAD
 // import jdbc.model.Mahasiswa;
 // import jdbc.utilities.MysqlUtility;
+=======
+import jdbc.model.Mahasiswa;
+import jdbc.utilities.MysqlUtility;
+>>>>>>> 23bc096feb16e53f702049a9302606bd4d813acf
 
 public class MysqlMahasiswaService {
     Connection koneksi = null;

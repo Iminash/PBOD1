@@ -2,7 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+<<<<<<< HEAD
 // package jdbc.utilities;
+=======
+package jdbc.utilities;
+>>>>>>> 23bc096feb16e53f702049a9302606bd4d813acf
 
 import java.sql.Connection;
 import java.sql.DriverManager;
