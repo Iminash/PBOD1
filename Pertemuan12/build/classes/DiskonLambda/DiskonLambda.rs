@@ -1,0 +1,3 @@
+DiskonLambda.DiskonLambda$1
+DiskonLambda.IDiskon
+DiskonLambda.DiskonLambda
